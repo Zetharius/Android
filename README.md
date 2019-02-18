@@ -1,4 +1,4 @@
-Zetharius Frames
+Android
 ====================
 
 _Be gentle, it is my first time..._
@@ -15,3 +15,6 @@ _Be gentle, it is my first time..._
 To obtain the info from the client.
 
 ## Notes 
+
+
+18/02/2019
